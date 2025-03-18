@@ -2,36 +2,13 @@
 
 Welcome to my profile X)
 
-I am a 🇫🇷 developer in formation !
+I am a 🇫🇷 web developer in formation !
+You should see my portfolio 👉 https://bit.ly/Portfolio-leo
 
-I mean... you'll probably see lines of code or something like this. 💻
-
-My other hobbies {
-
-	🎶 Music;
- 
-	🎴 Mangas;
- 
-	🎮 Video games;
-
- 	🍀 Touch grass;
-}
-
-My languages {
-
-	🇫🇷 : native;
-	🇬🇧 : good level;
-	🇪🇸 : medium level;
-	🇯🇵 : medium level ( I learn every day );
- 
-}
+📢 I am searching an enterprise, if you're interested, contact me !
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Brd&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Brd&show_icons=true&theme=transparent)
 
 A little surprise --> https://linktr.ee/sakey_music
-
-
-
-      
