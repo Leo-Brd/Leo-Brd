@@ -8,14 +8,6 @@ I'm **Leo**, a passionate and motivated 🇫🇷 web developer currently in trai
 
 ---
 
-### 📢 **What I'm Looking For**  
-I'm actively searching for a company to join as part of my apprenticeship or professional journey. If you're interested in collaborating or have opportunities, feel free to reach out!  
-
-📧 **Contact me:** [Email](mailto:leobordet.pro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/leo-bordet/)  
-
----
-
-
 ### 📊 **GitHub Stats**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Brd&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
